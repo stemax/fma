@@ -1,0 +1,12 @@
+{
+  "title": "SMT Dev Addon",
+  "name": "smt",
+  "version": "0.0.1",
+  "description": "SMT first addon",
+  "main": "index.js",
+  "author": "Stemax",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
