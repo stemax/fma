@@ -1,5 +1,7 @@
-JPM [![Dependency Status](https://david-dm.org/mozilla-jetpack/jpm.png)](https://david-dm.org/mozilla-jetpack/jpm) [![Build Status](https://travis-ci.org/mozilla-jetpack/jpm.png)](https://travis-ci.org/mozilla-jetpack/jpm)
+Test mozilla addon for Belarus/Minsk informer by help JPM [![Dependency Status](https://david-dm.org/mozilla-jetpack/jpm.png)](https://david-dm.org/mozilla-jetpack/jpm) [![Build Status](https://travis-ci.org/mozilla-jetpack/jpm.png)](https://travis-ci.org/mozilla-jetpack/jpm)
 ===
+[![NPM](htpp://tormix.com/files/mozilla_addon.png)](https://test.test)
+
 
 [![NPM](https://nodei.co/npm/jpm.png?stars&downloads)](https://nodei.co/npm/jpm/)
 [![NPM](https://nodei.co/npm-dl/jpm.png)](https://nodei.co/npm/jpm)
