@@ -1,10 +1,10 @@
 {
-  "title": "SMT Dev Addon",
-  "name": "smt",
+  "title": "Minsk Info Addon",
+  "name": "minskinfosmt",
   "version": "0.0.1",
-  "description": "SMT first addon",
+  "description": "Weather/Currency info addon",
   "main": "index.js",
-  "author": "Stemax",
+  "author": "SMT",
   "engines": {
     "firefox": ">=38.0a1"
   },
